@@ -1,0 +1,33 @@
+.hidden {
+  display: none;
+}
+
+#hidden-1 {
+  display: none;
+}
+#hidden-2 {
+  display: none;
+}
+#hidden-3 {
+  display: none;
+}
+#hidden-4 {
+  display: none;
+}
+#hidden-5 {
+  display: none;
+}
+#hidden-6 {
+  display: none;
+}
+
+#centerText {
+  text-align: center;
+}
+.thumbnail  {
+  max-width: 60%;
+  display: inline-block;
+}
+#add-pet  {
+  margin-bottom: 10px;
+}
