@@ -1,22 +1,8 @@
-.hidden {
-  display: none;
-}
-
-#hidden-1 {
-  display: none;
-}
-#hidden-2 {
-  display: none;
-}
-#hidden-3 {
-  display: none;
-}
-#hidden-4 {
-  display: none;
-}
-#hidden-5 {
-  display: none;
-}
+#hidden-1,
+#hidden-2,
+#hidden-3,
+#hidden-4,
+#hidden-5,
 #hidden-6 {
   display: none;
 }
